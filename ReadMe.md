@@ -1,5 +1,5 @@
 # About Me:
-My name is Muhammad Rizqi Maulana, I am 19 years old, a web fullstack developer and technology enthusiast. I have a strong passion for developing modern applications with a focus on security, and I am always eager to explore new technologies and automation solutions.
+My name is Muhammad Rizqi Maulana, a web fullstack developer and technology enthusiast. I have a strong passion for developing modern applications with a focus on security, and I am always eager to explore new technologies and automation solutions.
 
 I have experience working as a developer and mentor in several teams, developing web applications using JavaScript, TypeScript, Next.js, React.js, and mentoring junior developers. Being active in communities and collaborative projects has enriched my skills in innovation, teamwork, and adapting to the fast-evolving tech landscape.
 
